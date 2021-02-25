@@ -1,0 +1,150 @@
+@media only screen and (max-width: 1140px) {
+    .my_pic
+    {
+        margin-left: 6%;
+    }
+    .about_me_content
+    {
+        padding-left:8% ;
+    }
+    .card1
+    {
+       margin-left: 2%;
+    }
+    .card2 , .card3
+    {
+        margin-left: 9%;
+    }
+  }
+  @media only screen and (max-width: 1020px) {
+    .my_pic
+    {
+        margin-left: 3%;
+    }
+    .about_me_content
+    {
+        padding-left:5% ;
+    }
+    .about_me_para
+    {
+        margin-left: 22%;
+    }
+  }
+
+  @media (max-width: 950px)
+  {
+     .card2,.card3
+     {
+         margin-left: 7%;
+     }
+     .about_me_para
+     {
+         margin-left: 15%;
+     }
+     img
+     {
+         width: 250px;
+         height: 250px;
+     }
+     .about_me img
+     {
+         width: 200px;
+         height: 200px;
+     }
+  }
+  @media (max-width: 900px)
+  {
+     .card3
+     {
+         margin-top: 8%;
+         margin-left: 12%;
+     }
+     .card1
+     {
+         margin-left: 12%;
+     }
+  }
+  @media (max-width: 800px)
+  {
+     .my_pic
+     {
+         margin-left: 17%;
+     }
+    .about_me img
+    {
+        width: 250px;
+        height: 200px;
+    }
+     .my_image
+     {
+         margin-left: 15%;
+     }
+     .about_me_para
+     {
+         margin-top: 4%;
+     }
+  }
+  @media (max-width: 640px)
+  {
+      li a
+      {
+          display: none;
+      }
+     .my_pic
+     {
+         margin-left: 8%;
+     }
+    .about_me img
+    {
+        width: 250px;
+        height: 200px;
+    }
+     .my_image
+     {
+         margin-left: 8%;
+     }
+     .about_me_para
+     {
+         margin-top: 4%;
+     }
+     .about_me_para
+     {
+         margin-left: 8%;
+     }
+     .intro_para
+     {
+         margin-left: 11%;
+     }
+     .card2,.card3
+     {
+       margin-top: 5%;
+     }
+     .card2
+     {
+         margin-left: 12%;
+     }
+     .cards
+     {
+         text-align: center;
+         padding-left: 10%;
+     }
+  }
+  
+  @media(max-width:400px)
+  {
+      html
+      {
+          font-size: 12px;
+      }
+  }
+  @media(max-width:380px)
+  {
+      .my_image,.card1,.card2,.card3,.my_pic
+      {
+          margin-left: 3%;
+      }
+      .about_me_para
+      {
+          margin-left: 3%;
+      }
+  }
